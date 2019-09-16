@@ -1,0 +1,43 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Mudit Singh
+
+2. What hostname did you deploy to?
+http://hw02.muditsingh.online/
+
+3. What's the link to your repository on github with your code?
+https://github.com/muditF1/CS5610-Assignment-02
+
+4. How many HTML / CSS tutorial exercises did you do?
+All
+
+5. How comfortable do you feel with HTML and CSS now?
+Still need to learn a lot more especially in terms of CSS display property and making a responsive page
+
+6. How many JS tutorial exercises did you do?
+36 excercises from https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1 
+
+7. How comfortable do you feel with JS now?
+50% comfortable but still need to learn especially on ways to manipulate DOM and scoping of the functions.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes all the pages pass W3
+
+9. Which parts of this assignment did you have trouble with, if any?
+Understanding Lexical scoping and making the +/= button conditions for the calculator
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
