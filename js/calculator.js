@@ -1,16 +1,13 @@
 /**
  * Copyright © 2019 Mudit Singh
- * Mudit Singh (manu.latest@gmail.com)
- * 6 Wigglesworth Street Apt 2
- * Boston, MA 02120
- * www.muditsingh.online
+ * Contact : manu.latest@gmail.com
  * 
  * All rights reserved. No part of this code may be reproduced, distributed,or
  * transmitted in any form or by any means, including photocopying, recording,
  * or other electronic or mechanical methods, without the prior written permission
  * of the owner, except in the case of brief quotations embodied in critical reviews
  * and certain other noncommercial uses permitted by copyright law.
- * /
+ */
 
 /**
  * This file is a javascript driver for a simple 4 function calculator. The +/= button works as toggle
@@ -19,7 +16,6 @@
  */
 
 /**
- * Working and limitations:
  * What is working : 
  * Calculator will work with chaining or operand and opertator but after every operation
  * you need to ensure that the = sign is pressed for the calculation to go ahead in the
