@@ -114,11 +114,15 @@
             document.getElementById("numberDisplayScreen").innerHTML = "0";
         };
 
+        // Attribution : This method of building the elements of the DOM and assigning the
+        //               event listener using an array was shown in CS5610 class.
         // Getting the list of keypad numbers and associating click events with them.
         for (var i = 0, l = document.getElementsByClassName("number").length; i < l; i++) {
             document.querySelectorAll(".number")[i].addEventListener("click", setNumber);
         }
 
+        // Attribution : This method of building the elements of the DOM and assigning the
+        //               event listener using an array was shown in CS5610 class.
         // Getting the list of operator and associating click events with them.
         for (var i = 0, l = document.querySelectorAll(".operator").length; i < l; i++) {
             document.querySelectorAll(".operator")[i].addEventListener("click", operatorAction);
