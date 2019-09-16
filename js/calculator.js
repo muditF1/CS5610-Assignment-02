@@ -26,7 +26,7 @@
  * Literal chaining of operand and operation. For example: a+b-c*d.
  * 
  */
-
+"use strict";
 (function () {
     window.onload = function () {
         var currentNumber = ""; // initializing with empty values.
