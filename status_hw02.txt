@@ -20,7 +20,7 @@ Still need to learn a lot more especially in terms of CSS display property and m
 36 excercises from https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1 
 
 7. How comfortable do you feel with JS now?
-50% comfortable but still need to learn especially on ways to manipulate DOM and the scoping of the functions.
+50% comfortable but still need to learn especially on ways to manipulate DOM and scoping of the functions.
 
 8. Do all of your HTML pages pass the W3C HTML validator?
 (https://validator.w3.org/)
