@@ -16,15 +16,28 @@
  */
 
 /**
- * What is working : 
- * Calculator will work with chaining or operand and opertator but after every operation
- * you need to ensure that the = sign is pressed for the calculation to go ahead in the
- * chaining. For example: a+b=(result via +/= button)-c=(result via +/= button)*d should
- * work and give an output in accordance to order of operations.
+ * How/What is working : 
+ * 1. Calculator will perform arithmetic operation between operands after pressing the +/= key.
+ * 2. You need to ensure that the "+/=" button is pressed to get a result and only then move.
+ * 3. For Example : 7 + 1 - 6 * 2 / 2
+ *    How this calculate expression would work with this calculator:
+ *      Step 01: Press 7
+ *      Step 02: Press +/=
+ *      Step 03: Press 1
+ *      Step 04: Press +/=
+ *      Step 05: Press -
+ *      Step 06: Press 6
+ *      Step 07: Press +/=
+ *      Step 08: Press *
+ *      Step 09: Press 2
+ *      Step 10: Press +/=
+ *      Step 11: Press /
+ *      Step 12: 2
+ *      Step 13: Press +/=
  * 
  * What would not work:
- * Literal chaining of operand and operation. For example: a+b-c*d.
- * 
+ * Literal chaining of operand and operation like this
+ * example: a+b-c*d without pressing an equals sign would not work.
  */
 "use strict";
 (function () {
